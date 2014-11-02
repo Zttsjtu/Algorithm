@@ -40,7 +40,7 @@ void main()
 	bool m;
 	HD e;
 	KeyType k;
-	ifstream fin("F6-4.txt");
+	ifstream fin("input.txt");
 	fin>>n;//由文件输入数据个数
 	//建立哈希表
 	for(i=0; i<n; i++)
